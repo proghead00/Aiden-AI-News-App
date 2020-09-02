@@ -11,6 +11,7 @@
 ## I coded the AI scripts on [Alan Studio Code](https://alan.app/)
 
 ![news with aiden (4)](https://user-images.githubusercontent.com/55017730/92018793-3f76e580-ed73-11ea-9a9e-4b9634002836.png)
+---
 ![screenshot](https://user-images.githubusercontent.com/55017730/92019152-ca57e000-ed73-11ea-99d5-a37ba7587acb.png)
 
 ![Talk to Aiden](https://user-images.githubusercontent.com/55017730/92018891-69c8a300-ed73-11ea-9c02-068b45128216.png)
