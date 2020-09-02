@@ -6,9 +6,9 @@
 ## How To Run:
 <code> npm i && npm start </code> - this will start the development server after installing the node modules
 
-## I used [Material UI](https://material-ui.com/)🧤
+## I used [Material UI](https://material-ui.com/) 🧤
 
-## I coded the AI scripts on [Alan Studio Code](https://alan.app/)🤖
+## I coded the AI scripts on [Alan Studio Code](https://alan.app/) 🤖
 
 ![news with aiden (4)](https://user-images.githubusercontent.com/55017730/92018793-3f76e580-ed73-11ea-9a9e-4b9634002836.png)
 ---
