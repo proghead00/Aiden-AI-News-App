@@ -1,5 +1,5 @@
 # Aiden AI News App
-### AI powered with voice recognition enabled app that reads news from a variety of sources, interacts with you, and can even have funny conversations.
+### AI powered with voice recognition enabled app that reads news from a variety of sources, interacts with you, and can even have funny conversations made with React and Alan AI
 
 ## 👉🏻[See Aiden live!](https://aidenapp.netlify.app//)👈🏻
 ---
@@ -9,6 +9,8 @@
 ## I used [Material UI](https://material-ui.com/)
 
 ## I coded the AI scripts on [Alan Studio Code](https://alan.app/)
+
+
 
 
 
