@@ -9,6 +9,7 @@
 ## I used [Material UI](https://material-ui.com/) 🧤
 
 ## I coded the AI scripts on [Alan Studio Code](https://alan.app/) 🤖
+### *I also included the AI scripts folder in this repository*
 
 ![news with aiden (4)](https://user-images.githubusercontent.com/55017730/92018793-3f76e580-ed73-11ea-9a9e-4b9634002836.png)
 ---
