@@ -3,6 +3,12 @@
 
 ## 👉🏻[See Aiden live!](https://aidenapp.netlify.app//)👈🏻
 ---
-## Dependency:
+## How To Run:
+<code> npm i && npm start </code> - this will start the development server after installing the node modules
+
+## I used [Material UI](https://material-ui.com/)
+
+## I coded the AI scripts on [Alan Studio Code](https://alan.app/)
+
 
 
