@@ -6,7 +6,14 @@
 ## How To Run:
 <code> npm i && npm start </code> - this will start the development server after installing the node modules
 
-## I used [Material UI](https://material-ui.com/) 🧤
+
+
+## 🧤 Packages/Libraries/Stuff that I used with React:
+
+* ### <code> npm i @material-ui/core </code>
+* ### <code> npm i alan-ai/alan-sdk-web </code>
+* ### <code> npm i words-to-numbers <code>
+  
 
 ## I coded the AI scripts on [Alan Studio Code](https://alan.app/) 🤖
 ### *I also included the AI scripts folder in this repository*
