@@ -12,9 +12,9 @@
 
 * ### <code> npm i @material-ui/core </code>
 * ### <code> npm i alan-ai/alan-sdk-web </code>
-* ### <code> npm i words-to-numbers <code>
-  
+* ### <code> npm i words-to-numbers </code>
 
+  
 ## I coded the AI scripts on [Alan Studio Code](https://alan.app/) 🤖
 ### *I also included the AI scripts folder in this repository*
 
