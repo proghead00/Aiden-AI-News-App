@@ -16,7 +16,7 @@ const App = () => {
 
 	useEffect(() => {
 		alanBtn({
-			key: '33e92604d7525978c8423964e78244172e956eca572e1d8b807a3e2338fdd0dc/stage',
+			key: '  <YOUR ALAN KEY>  ',
 			onCommand: ({ command, articles, number }) => {
 				if (command === 'newHeadlines') {
 					setNewsArticles(articles);
